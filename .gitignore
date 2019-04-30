@@ -1,3 +1,9 @@
+data/ModelNet40
+meshnet.pkl
+
+# vscode
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
